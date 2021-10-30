@@ -1,0 +1,9 @@
+{
+  "contest": "Slingshot Finance contest",
+  "handle": "gpersoon",
+  "address": "gpersoon.eth",
+  "risk": "3",
+  "title": " initialBalance and finalBalance calculated in a different way",
+  "issueId": 18,
+  "issueUrl": "https://github.com/code-423n4/2021-10-slingshot-findings/issues/18"
+}

@@ -1,0 +1,9 @@
+{
+  "contest": "Slingshot Finance contest",
+  "handle": "TomFrench",
+  "address": "0x60959Ed8307EE2b0d04306f6b319AEeE8864f1Ee",
+  "risk": "0",
+  "title": "Malicious governance can abuse approvals to ApprovalHandler",
+  "issueId": 2,
+  "issueUrl": "https://github.com/code-423n4/2021-10-slingshot-findings/issues/2"
+}

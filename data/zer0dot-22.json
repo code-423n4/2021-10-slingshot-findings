@@ -1,0 +1,9 @@
+{
+  "contest": "Slingshot Finance contest",
+  "handle": "zer0dot",
+  "address": "0xF4F56fA0D045ae0e6Ba8f82e2C32887FE0B152Ea",
+  "risk": "G",
+  "title": "Unnecessary Use of _msgSender()",
+  "issueId": 22,
+  "issueUrl": "https://github.com/code-423n4/2021-10-slingshot-findings/issues/22"
+}

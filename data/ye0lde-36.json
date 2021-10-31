@@ -1,0 +1,9 @@
+{
+  "contest": "Slingshot Finance contest",
+  "handle": "ye0lde",
+  "address": "0x81D4cf8A3892557e4a1571e97b88f0351eF0dcFD",
+  "risk": "1",
+  "title": "Unused function (_sendFunds in Slingshot.sol)",
+  "issueId": 36,
+  "issueUrl": "https://github.com/code-423n4/2021-10-slingshot-findings/issues/36"
+}

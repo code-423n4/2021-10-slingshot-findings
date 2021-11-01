@@ -1,0 +1,9 @@
+{
+  "contest": "Slingshot Finance contest",
+  "handle": "WatchPug",
+  "address": "0x192bDD30D272AabC2B1c3c719c518F0f2d10cc60",
+  "risk": "G",
+  "title": "`IUniswapModule.sol` use an immutable variable `router` can save gas and simplify implementation",
+  "issueId": 61,
+  "issueUrl": "https://github.com/code-423n4/2021-10-slingshot-findings/issues/61"
+}

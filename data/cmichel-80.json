@@ -1,0 +1,9 @@
+{
+  "contest": "Slingshot Finance contest",
+  "handle": "cmichel",
+  "address": "0x6823636c2462cfdcD8d33fE53fBCD0EdbE2752ad",
+  "risk": "1",
+  "title": "`Slingshot._sendFunds` function not used and wrong",
+  "issueId": 80,
+  "issueUrl": "https://github.com/code-423n4/2021-10-slingshot-findings/issues/80"
+}

@@ -1,0 +1,9 @@
+{
+  "contest": "Slingshot Finance contest",
+  "handle": "pmerkleplant",
+  "address": "0x7125412Fc011D74C26E3CA768aB6224643702313",
+  "risk": "0",
+  "title": "Error messages in `ModuleRegistry.sol` inconsistent to the rest of the project",
+  "issueId": 49,
+  "issueUrl": "https://github.com/code-423n4/2021-10-slingshot-findings/issues/49"
+}

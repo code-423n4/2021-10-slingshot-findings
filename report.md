@@ -1,3 +1,11 @@
+---
+sponsor: "Slingshot Finance"
+slug: "2021-10-slingshot"
+date: "2021-11-17"  
+title: "Slingshot Finance contest"
+findings: "https://github.com/code-423n4/2021-10-slingshot-findings/issues"
+contest: 48
+---
 
 # Overview
 
